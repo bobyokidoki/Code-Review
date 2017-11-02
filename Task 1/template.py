@@ -8,7 +8,7 @@ def find_stars(ccd_image):
 	Given a `ccd_image`, return an astropy table containing columns called x, y, flux
 	"""
 	
-	catalogue = 0 # test line 
+	catalogue = 0 # test line change
 
 
 	return catalogue
